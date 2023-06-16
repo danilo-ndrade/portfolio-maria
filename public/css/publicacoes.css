@@ -1,0 +1,28 @@
+.publications-container {
+    margin-top: 30px;
+  }
+  
+  .publication-title {
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .publication-subtitle {
+    font-size: 1em;
+    font-weight: normal;
+    padding: 0;
+    margin: 5px 0;
+  }
+  
+  .publication-info {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .publication-info p {
+    margin: 0;
+    border-radius: 10px;
+    font-size: 0.8em;
+    color: #636363;
+  }
